@@ -3,3 +3,5 @@
 /Users/alizproarts/Projects/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.exe
 /Users/alizproarts/Projects/FirstConsoleApp/FirstConsoleApp/obj/x86/Debug/FirstConsoleApp.exe
 /Users/alizproarts/Projects/FirstConsoleApp/FirstConsoleApp/obj/x86/Debug/FirstConsoleApp.exe.mdb
+/Users/alizproarts/Projects/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.pdb
+/Users/alizproarts/Projects/FirstConsoleApp/FirstConsoleApp/obj/x86/Debug/FirstConsoleApp.pdb
